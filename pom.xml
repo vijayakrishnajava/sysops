@@ -40,8 +40,8 @@
 
 
 <scm>
-    <connection>scm:git:https://github.com/vijayakrishnajava/sysops.git</connection>
-    <developerConnection>scm:git:https://github.com/vijayakrishnajava/sysops.git</developerConnection>
+	<connection>scm:git:https://vijayakrishnajava:Vijaya%40012@github.com/vijayakrishnajava/sysops.git</connection>
+	<developerConnection>scm:git:https://vijayakrishnajava:Vijaya%40012@github.com/vijayakrishnajava/sysops.git</developerConnection>
 	<tag>HEAD</tag>
 </scm>
 
